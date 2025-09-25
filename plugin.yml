@@ -1,0 +1,9 @@
+name: SkyblockPlugin
+main: com.example.skyblock.SkyblockPlugin
+version: 1.0
+api-version: 1.20
+commands:
+  skyblock:
+    description: Teleportuje hráče na jejich Skyblock svět
+  back:
+    description: Vrátí hráče zpět do původního světa
